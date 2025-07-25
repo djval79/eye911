@@ -1,0 +1,17 @@
+Subject: NHTSA API Key Request
+
+Dear NHTSA Developer Support,
+
+I'm writing to request an API key for NOVUMSOLVO's traffic safety monitoring application.
+
+Organization: NOVUMSOLVO
+Contact: valentine@novumsolvo.co.uk
+Use Case: Traffic safety monitoring and analysis
+Expected Volume: <1000 requests/day
+Data Needs: Crash listings and case details
+
+Please let me know if you need any additional information.
+
+Best regards,
+Valentine
+NOVUMSOLVO

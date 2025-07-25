@@ -1,0 +1,21 @@
+Subject: Partnership Inquiry - PulsePoint API Access
+
+Dear PulsePoint Team,
+
+NOVUMSOLVO is developing a traffic safety monitoring system and would like to request API access to support our mission of improving emergency response times.
+
+Organization Details:
+- Name: NOVUMSOLVO
+- Contact: Valentine
+- Email: valentine@novumsolvo.co.uk
+
+Project Details:
+- Purpose: Real-time traffic incident monitoring
+- Initial Coverage: Los Angeles County
+- Data Usage: Will comply with all PulsePoint guidelines
+
+We would appreciate information about the partnership process. Please let me know if you need any additional details.
+
+Best regards,
+Valentine
+NOVUMSOLVO
